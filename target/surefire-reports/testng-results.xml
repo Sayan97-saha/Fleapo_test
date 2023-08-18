@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on 'CHAT WITH ME'
+]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Let's start'
+]]>
+    </line>
+    <line>
+      <![CDATA[Provided telephone number as '1111111111']]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Continue'
+]]>
+    </line>
+    <line>
+      <![CDATA[Provided OTP
+]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Image]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-18T22:09:49 IST" name="Suite" finished-at="2023-08-18T22:10:16 IST" duration-ms="26689">
+    <groups>
+    </groups>
+    <test started-at="2023-08-18T22:09:49 IST" name="Test" finished-at="2023-08-18T22:10:16 IST" duration-ms="26689">
+      <class name="auto_runner.cucumber_runner">
+        <test-method signature="run_fleapo_test()[pri:0, instance:auto_runner.cucumber_runner@c8c12ac]" started-at="2023-08-18T22:09:49 IST" name="run_fleapo_test" finished-at="2023-08-18T22:10:16 IST" duration-ms="26664" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on 'CHAT WITH ME'
+]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Let's start'
+]]>
+            </line>
+            <line>
+              <![CDATA[Provided telephone number as '1111111111']]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Continue'
+]]>
+            </line>
+            <line>
+              <![CDATA[Provided OTP
+]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Image]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run_fleapo_test -->
+      </class> <!-- auto_runner.cucumber_runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

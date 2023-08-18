@@ -1,0 +1,16 @@
+Automation Assignments:
+
+ Note: 
+
+1. You have to write this assignment using Page Object Model
+2. Language to be used: Java/Python (Preferably Java) 
+3. Framework to be used: Selenium Webdriver with TestNG (TDD)
+4. Once Assignment is done, upload it to Github and send the github link in the response.
+
+Assignment :
+
+ 1. Go to:  https://develop-v2.superlink.io/userthree
+ 2. Once the page is loaded, logged in with +91 1111111111 and OTP: 123456.
+ 3. Once logged in,Click on “chat with me” button
+4. There,Unlock image(by clicking on preview).
+5. Click on “Unlock Image” button.
